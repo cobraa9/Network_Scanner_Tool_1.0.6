@@ -1,0 +1,14 @@
+{
+    "25": {
+        "service": "SMTP",
+        "banner": "500 Syntax error, command unrecognized"
+    },
+    "53": {
+        "service": "DNS",
+        "banner": "No Banner"
+    },
+    "80": {
+        "service": "HTTP",
+        "banner": "HTTP/1.1 400 Bad Request\r\nServer: freenginx/1.25.5\r\nDate: Sun, 09 Mar 2025 17:25:49 GMT\r\nContent-Type: text/html\r\nContent-Length: 161\r\nConnection: close\r\n\r\n<html>\r\n<head><title>400 Bad Request</title></head>\r\n<body>\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>freenginx/1.25.5</center>\r\n</body>\r\n</html>"
+    }
+}

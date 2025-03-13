@@ -1,0 +1,14 @@
+{
+    "23": {
+        "service": "Telnet",
+        "banner": "No Banner"
+    },
+    "53": {
+        "service": "DNS",
+        "banner": "No Banner"
+    },
+    "80": {
+        "service": "HTTP",
+        "banner": "HTTP/1.1 500 Internal Server Error\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 130\r\nSet-Cookie: JSESSIONID=deleted; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Path=/; HttpOnly\r\nConnection: close\r\n\r\n<html><head><title>500 Internal Server Error</title></head><body><center><h1>500 Internal Server Error</h1></center></body></html>"
+    }
+}
