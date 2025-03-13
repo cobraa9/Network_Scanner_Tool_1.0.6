@@ -1,6 +1,6 @@
 
 # Network Scanner Tool (1.0.5)💻
-![Ns](https://github.com/user-attachments/assets/1009f4ba-639f-47f6-895f-c706799f8f9f)
+![network_scanner_resized](https://github.com/user-attachments/assets/038cb24c-6fae-4dad-bfb0-9f6d478b7808)
 
 ## Overview 🛡️
 
