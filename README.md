@@ -5,16 +5,8 @@
 
 The **Network Scanner Tool** is a Python-based cybersecurity tool designed to scan networks, detect open ports, banner grabbing, identify running services, and assess potential vulnerabilities. As a beginner, this tool is ideal for  network security students and cybersecurity researchers  who want to analyze their networks. 🖥️🔌
 
-# Features 🎯
 
-- **Device Discovery:** Identify all devices connected to a given network.  
-- **Port Scanning:** Detects running services by scanning common ports and grabbing banners.  
-- **Service Detection:** Identify services running on the open ports.  
-- **Multithreading:** Speeds up the scanning process using multithreading.  
-- **Stealth Scan:** Perform a stealthy SYN scan to avoid detection by firewalls.  
-- **Reporting:** Generate a summary report of the scanned network in differemt formats.  
-
-## New Features in Version 1.0.5 🚀  
+# Features Update in Version 1.0.5 🚀  
 
 ✅ **Fastrer Scan:**  
 - Uses Python's `threading` library to scan multiple targets simultaneously, reducing scan time significantly.  
