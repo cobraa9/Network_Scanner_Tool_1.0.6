@@ -41,8 +41,7 @@ The **Network Scanner Tool** is a Python-based cybersecurity tool designed to sc
 - **nmap (python-nmap):** Enhances port scanning and service detection. LINK --> [Nmap](https://nmap.org/download.html)  
 - **argparse:** For handling command-line arguments.  
 - **subprocess:** To execute system commands for additional functionalities.  
-- **threading:** Used to enable multithreading for faster scanning.  
-- **pcap/json:** For structured report generation & result analysis.  
+- **threading:** Used to enable multithreading for faster scanning.   
 - **pcapviewer:** To analyze the network PCAP/PCAPNG (Packet Capture) files. LINK --> [PcapViewer](https://marketplace.visualstudio.com/items?itemName=sankooc.pcapviewer)  
 
 ---
