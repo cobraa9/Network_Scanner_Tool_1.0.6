@@ -38,10 +38,10 @@ The **Network Scanner Tool** is a Python-based cybersecurity tool designed to sc
 
 ---
 
-## Installation 📥📌  
+## Installation 📥  
 
 ### Prerequisites ✅📦  
-Make sure that you have installed Python 3.x.y (any updated version)  on your system. 📂⚙️  
+Make sure that you have installed Python 3.x.y (any updated version)  on your system. 📂  
 
 ```bash
 py --version
@@ -161,6 +161,6 @@ This is an updated version from my previous project , and Contributions are welc
 
 **Anirban**  
 
-For Suggestions, feel free to contact me via GitHub or mail. 📩  
+For Suggestions, feel free to contact me via GitHub. 📩  
 
 ---
