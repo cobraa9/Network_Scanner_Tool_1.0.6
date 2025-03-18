@@ -1,4 +1,3 @@
-
 # Network Scanner Tool (1.0.5)💻
 ![network_scanner_resized](https://github.com/user-attachments/assets/038cb24c-6fae-4dad-bfb0-9f6d478b7808)
 
@@ -28,14 +27,14 @@ The **Network Scanner Tool** is a Python-based cybersecurity tool designed to sc
 
 ## Technologies and Libraries Used 📚  
 
-- **Python:** Core programming languagefor the script. LINK --> [Python](https://www.python.org/downloads/)  
-- **Scapy:** Used for packet creation, sniffing, and analysis. LINK --> [Scapy](https://github.com/secdev/scapy)  
+- **Python:** Core programming languagefor the script. LINK --> https://www.python.org/downloads/  
+- **Scapy:** Used for packet creation, sniffing, and analysis. LINK --> https://github.com/secdev/scapy  
 - **socket:** Built-in Python module for network communications.  
-- **nmap (python-nmap):** Enhances port scanning and service detection. LINK --> [Nmap](https://nmap.org/download.html)  
+- **nmap (python-nmap):** Enhances port scanning and service detection. LINK --> https://nmap.org/download.html  
 - **argparse:** For handling command-line arguments.  
 - **subprocess:** To execute system commands for additional functionalities.  
 - **threading:** Used to enable multithreading for faster scanning.   
-- **pcapviewer:** To analyze the network PCAP/PCAPNG (Packet Capture) files. LINK --> [PcapViewer](https://marketplace.visualstudio.com/items?itemName=sankooc.pcapviewer)  
+- **pcapviewer:** To analyze the network PCAP/PCAPNG (Packet Capture) files. LINK --> https://marketplace.visualstudio.com/items?itemName=sankooc.pcapviewer  
 
 ---
 
@@ -74,7 +73,7 @@ python main.py
 
 ---
 
-### Command-Line Arguments 🖥️  
+### Command-Line Arguments(Optional) 🖥️  
 
 | Argument         | Description                                              |
 |------------------|----------------------------------------------------------|
@@ -86,7 +85,7 @@ python main.py
 
 ---
 
-### Example Commands 📡🖥️  
+### Example Commands 🖥️  
 
 - Scan a specific IP:  
 ```bash
@@ -132,19 +131,19 @@ python main.py
    Performs a half-open SYN scan to avoid detection by firewalls. 🛡️  
 
 5. **Faster Scan:**  
-   Scans multiple targets simultaneously, improving scan efficiency. 🔥  
+   Scans multiple targets simultaneously, improving scan efficiency.   
 
 6. **Vulnerability Detection:**  
    Cross-references detected services with a known vulnerability database.  
 
 7. **Report Generation:**  
-   Saving Outputs findings in a structured format (PCAP, JSON, or CSV). 📜📂  
+   Saving Outputs findings in a structured format (PCAP, JSON, or CSV). 📂  
 
 ---
 
 ## Disclaimer ⚠️  
 
-This tool is intended for **educational and ethical** purposes only. While port scanning itself isn't always illegal, unauthorized scanning of networks that you do not own or have permission to scan is illegal and punishable by law. 🚨❌⚖️  
+This tool is intended for **educational and ethical** purposes only. While port scanning itself isn't always illegal, but unauthorized scanning of networks that you do not own or have permission to scan is illegal and punishable by law. 🚨⚖️  
 
 ---
 
@@ -155,13 +154,13 @@ This is an updated version from my previous project , and Contributions are welc
 ### 🌟 **Future Plans:**  
 👉 **GUI Integration:** Planning to create a user-friendly GUI using **Tkinter** or **PyQt** to improve usability and user experience.  
 👉 **Plugin System:** Planning to add support for custom scanning modules.  
-👉 **Report Generate:** Planning to update more feature for better packet capturing & result analysis.
+👉 **Advanced Report Generate:** Planning to update more features for better packet capturing and result analysis.
 ---
 
-## Author ✍️🌍  
+## Author ✍️  
 
 **Anirban**  
 
-For Suggestions, feel free to contact me via GitHub. 📩  
+For Suggestions, feel free to contact me via GitHub or mail. 📩  
 
 ---
