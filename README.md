@@ -1,12 +1,12 @@
 # Network Scanner Tool (1.0.6)💻
 ![network_scanner_resized](https://github.com/user-attachments/assets/038cb24c-6fae-4dad-bfb0-9f6d478b7808)
 
-## Overview 🛡️
+## Overview 
 
-The **Network Scanner Tool** is a Python-based cybersecurity tool designed to scan networks, detect open ports, banner grabbing, identify running services, and assess potential vulnerabilities. As a beginner, this tool is ideal for  network security students and cybersecurity researchers  who want to analyze their networks. 🖥️
+The **Network Scanner Tool** is a Python-based cybersecurity tool designed to scan networks, detect open ports, banner grabbing, identify running services, and assess potential vulnerabilities. As a beginner, this tool is ideal for  network security students and cybersecurity researchers  who want to analyze their networks. 
 
 
-# Features Update in Version 1.0.6 🚀  
+# Features Update in Version 1.0.6   
 
 ✅ **Fastrer Scan:**  
 - Uses Python's `threading` library to scan multiple targets simultaneously, reducing scan time significantly.  
@@ -25,7 +25,7 @@ The **Network Scanner Tool** is a Python-based cybersecurity tool designed to sc
 
 ---
 
-## Technologies and Libraries Used 📚  
+## Technologies and Libraries Used   
 
 - **Python:** Core programming languagefor the script. LINK --> https://www.python.org/downloads/  
 - **Scapy:** Used for packet creation, sniffing, and analysis. LINK --> https://github.com/secdev/scapy  
@@ -40,21 +40,21 @@ The **Network Scanner Tool** is a Python-based cybersecurity tool designed to sc
 
 ## Installation 📥  
 
-### Prerequisites ✅📦  
-Make sure that you have installed Python 3.x.y (any updated version)  on your system. 📂  
+### Prerequisites   
+Make sure that you have installed Python 3.x.y (any updated version)  on your system.   
 
 ```bash
 py --version
 ```
 
-### Clone the Repository 🖥️🔗  
+### Clone the Repository   
 
 ```bash
 git clone https://github.com/cobraa9/Network_Scanner_Tool_1.0.5.git
 cd Network_Scanner_Tool_1.0.5
 ```
 
-### Install Required Libraries 📦🛠️  
+### Install Required Libraries   
 
 ```bash
 pip install scapy python-nmap argparse
@@ -62,7 +62,7 @@ pip install scapy python-nmap argparse
 
 ---
 
-## Usage 🖥️  
+## Usage   
 
 Run the tool with the following command and enter your target IP for scanning:  
 
@@ -73,7 +73,7 @@ python main.py
 
 ---
 
-### Command-Line Arguments(Optional) 🖥️  
+### Command-Line Arguments(Optional)   
 
 | Argument         | Description                                              |
 |------------------|----------------------------------------------------------|
@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-### Example Commands 🖥️  
+### Example Commands   
 
 - Scan a specific IP:  
 ```bash
@@ -115,20 +115,20 @@ python main.py
 
 ---
 
-## How It Works ⚙️🛠️  
+## How It Works   
 
 1. **Device Discovery:**  
-   Uses ARP requests to detect active devices on the network. 🖥️🔍  
+   Uses ARP requests to detect active devices on the network.   
 
 2. **Port Scanning:**  
-   - Uses TCP SYN scans to identify open ports. 🔌🔎  
+   - Uses TCP SYN scans to identify open ports.   
    - Optionally performs UDP scans for additional coverage.  
 
 3. **Service Detection:**  
-   Uses Nmap integration to identify running services. 🔍📡  
+   Uses Nmap integration to identify running services.   
 
 4. **Stealth Scan:**  
-   Performs a half-open SYN scan to avoid detection by firewalls. 🛡️  
+   Performs a half-open SYN scan to avoid detection by firewalls.   
 
 5. **Faster Scan:**  
    Scans multiple targets simultaneously, improving scan efficiency.   
@@ -137,27 +137,27 @@ python main.py
    Cross-references detected services with a known vulnerability database.  
 
 7. **Report Generation:**  
-   Saving Outputs findings in a structured format (PCAP, JSON, or CSV). 📂  
+   Saving Outputs findings in a structured format (PCAP, JSON, or CSV).  
 
 ---
 
 ## Disclaimer ⚠️  
 
-This tool is intended for **educational and ethical** purposes only. While port scanning itself isn't always illegal, but unauthorized scanning of networks that you do not own or have permission to scan is illegal and punishable by law. 🚨⚖️  
+This tool is intended for **educational and ethical** purposes only. While port scanning itself isn't always illegal, but unauthorized scanning of networks that you do not own or have permission to scan is illegal and punishable by law.   
 
 ---
 
-## Contribution 🔧🤝  
+## Contribution 🤝  
 
 This is an updated version from my previous project , and Contributions are welcome! Feel free to fork the repository and submit pull requests. 📝  
 
-### 🌟 **Future Plans:**  
+###  **Future Plans:**  
 👉 **GUI Integration:** Planning to create a user-friendly GUI using **Tkinter** or **PyQt** to improve usability and user experience.  
 👉 **Plugin System:** Planning to add support for custom scanning modules.  
 👉 **Advanced Report Generate:** Planning to update more features for better packet capturing and result analysis.
 ---
 
-## Author ✍️  
+## Author   
 
 **Anirban**  
 
