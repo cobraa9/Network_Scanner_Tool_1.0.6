@@ -1,6 +1,6 @@
 # Network Scanner Tool (1.0.6)💻
-![network_scanner_resized](https://github.com/user-attachments/assets/038cb24c-6fae-4dad-bfb0-9f6d478b7808)
-
+![network_scanner_resized](<img width="762" height="582" alt="PP" src="https://github.com/user-attachments/assets/7fce8a49-3a5d-4025-a21b-e27bda8d0558" />
+)
 ## Overview 
 
 The **Network Scanner Tool** is a Python-based cybersecurity tool designed to scan networks, detect open ports, banner grabbing, identify running services, and assess potential vulnerabilities. As a beginner, this tool is ideal for  network security students and cybersecurity researchers  who want to analyze their networks. 
