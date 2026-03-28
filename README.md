@@ -1,5 +1,5 @@
 # Network Scanner Tool (1.0.6)💻
-![network_scanner_resized](<img width="762" height="582" alt="PP" src="https://github.com/user-attachments/assets/7fce8a49-3a5d-4025-a21b-e27bda8d0558" />
+(<img width="762" height="582" alt="PP" src="https://github.com/user-attachments/assets/7fce8a49-3a5d-4025-a21b-e27bda8d0558" />
 )
 ## Overview 
 
